@@ -13,4 +13,4 @@ p2 = Hello( "emran", "shayesteh")
 
 print(f'Hello {p1.name} {p1.lastname}')
 print(f'Hello{p2.name} {p2.lastname}')
-
+l = 2
